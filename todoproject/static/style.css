@@ -1,0 +1,16 @@
+.banner{
+    background-color: mediumpurple;
+    width:200%;
+    height:100px;
+    margin-bottom:30px;
+
+}
+
+
+.banner-text{
+
+  top:6%;
+  left:50%;
+  position:absolute;
+  transform:transform;
+}
